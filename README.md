@@ -28,14 +28,12 @@ random-quote-generator/
 
 3. Tarayıcıdan index.html dosyasını aç.
 
-✨ Özellikler
-    ```
-    Rastgele Türkçe alıntı gösterme 📜
+## ✨ Özellikler
 
-    Arka plan rengini her alıntıda değiştirme 🎨
+- 📜 Rastgele Türkçe alıntı gösterme  
+- 🎨 Arka plan rengini her alıntıda değiştirme  
+- 🐦 Alıntıyı Twitter’da paylaşabilme
 
-    🐦 Alıntıyı Twitter’da paylaşabilme.
-    ```
 
 🖼️ Ekran Görüntüsü
     ![alt text](image.png)
