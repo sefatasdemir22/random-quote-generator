@@ -4,6 +4,8 @@ Bu proje, **Node.js + Express backend** ve **Vanilla JS frontend** kullanılarak
 Alıntılar `quotes.json` dosyasından çekilmektedir. API limiti yoktur, tamamen offline çalışır 🚀  
 
 ## 📂 Proje Yapısı
+
+```
 random-quote-generator/
 ├── index.html # Ön yüz (HTML)
 ├── style.css # Stil dosyası
@@ -12,6 +14,7 @@ random-quote-generator/
 ├── quotes.json # Türkçe alıntı havuzu
 ├── package.json # Proje ayarları ve bağımlılıklar
 └── node_modules/ # (npm install sonrası oluşur)
+```
 
 ## 🚀 Çalıştırma
 
